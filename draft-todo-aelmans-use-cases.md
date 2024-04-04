@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
+title: "Symmetric Key Exchange Use Cases"
 abbrev: "TODO - Abbreviation"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
-number:
+docname: draft-todo-aelmans-use-cases
+submissiontype: IETF
+number: 00
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: SEC
+workgroup: SKEX
 keyword:
  - next generation
  - unicorn
@@ -38,16 +38,16 @@ keyword:
 venue:
   group: WG
   type: Working Group
-  mail: WG@example.com
+  mail: skex@ietf.org
   arch: https://example.com/WG
-  github: USER/REPO
+  github: Symmetric-Key-Exchange/skex-use-cases
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Melchior Aelmans
+    organization: Juniper Networks
+    email: melchior@juniper.net
 
 normative:
 
@@ -56,7 +56,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+Symmetric Key Exchange mechanisms have the potential to improve widely used security protocols by supplementing them with additional, out of band, key material making these protocols quantum safe. This document provides an overview of some applications expected to benefit from additional key material and categorizes them. Some general requirements for the Symmetric Key Exchange mechanisms are also described.
 
 
 --- middle
