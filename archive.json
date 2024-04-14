@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-04-11T00:36:18.901599+00:00",
+  "timestamp": "2024-04-14T00:36:53.275959+00:00",
   "repo": "Symmetric-Key-Exchange/skex-use-cases",
   "labels": [
     {
@@ -50,5 +50,74 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOLp-e7s5si6Ax",
+      "title": "initial text",
+      "url": "https://github.com/Symmetric-Key-Exchange/skex-use-cases/pull/1",
+      "state": "CLOSED",
+      "author": "manfredvw",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-04-13T00:09:24Z",
+      "updatedAt": "2024-04-13T06:53:24Z",
+      "baseRepository": "Symmetric-Key-Exchange/skex-use-cases",
+      "baseRefName": "main",
+      "baseRefOid": "d5fa0e65628364bba8ce70f238fe0dc36d7e7520",
+      "headRepository": "manfredvw/skex-use-cases",
+      "headRefName": "main",
+      "headRefOid": "06c0f3b228d47f414d16f82feec310f6e7496075",
+      "closedAt": "2024-04-13T00:10:27Z",
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOLp-e7s53KMHq",
+          "commit": {
+            "abbreviatedOid": "06c0f3b"
+          },
+          "author": "maelmans",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "Thanks",
+          "createdAt": "2024-04-13T06:53:24Z",
+          "updatedAt": "2024-04-13T06:53:24Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOLp-e7s5si7su",
+      "title": "merging initial text",
+      "url": "https://github.com/Symmetric-Key-Exchange/skex-use-cases/pull/2",
+      "state": "MERGED",
+      "author": "manfredvw",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-04-13T00:23:01Z",
+      "updatedAt": "2024-04-13T06:55:03Z",
+      "baseRepository": "Symmetric-Key-Exchange/skex-use-cases",
+      "baseRefName": "main",
+      "baseRefOid": "d5fa0e65628364bba8ce70f238fe0dc36d7e7520",
+      "headRepository": "manfredvw/skex-use-cases",
+      "headRefName": "main",
+      "headRefOid": "065c0b2165cbd8e8d4a0a0b75b44e2bad0d5f828",
+      "closedAt": "2024-04-13T06:55:03Z",
+      "mergedAt": "2024-04-13T06:55:03Z",
+      "mergedBy": "maelmans",
+      "mergeCommit": {
+        "oid": "4e34416e2ffbe7baf602e82f6997b7394c776a2b"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
