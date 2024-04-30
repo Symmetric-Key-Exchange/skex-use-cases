@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-04-28T00:39:53.162654+00:00",
+  "timestamp": "2024-04-30T00:35:52.529539+00:00",
   "repo": "Symmetric-Key-Exchange/skex-use-cases",
   "labels": [
     {
@@ -116,6 +116,32 @@
       "mergeCommit": {
         "oid": "4e34416e2ffbe7baf602e82f6997b7394c776a2b"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOLp-e7s5uDJ19",
+      "title": "merging updates based on feedback",
+      "url": "https://github.com/Symmetric-Key-Exchange/skex-use-cases/pull/3",
+      "state": "OPEN",
+      "author": "manfredvw",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-04-29T18:33:50Z",
+      "updatedAt": "2024-04-29T18:33:50Z",
+      "baseRepository": "Symmetric-Key-Exchange/skex-use-cases",
+      "baseRefName": "main",
+      "baseRefOid": "4e34416e2ffbe7baf602e82f6997b7394c776a2b",
+      "headRepository": "manfredvw/skex-use-cases",
+      "headRefName": "main",
+      "headRefOid": "a32fc240e6d794654b21256f9ce86f22fe0c37a0",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
