@@ -52,6 +52,11 @@ IETF documents that describe consumption of pre-shared keys (PSKs) include:
  - RFC 9257: Guidance for External Pre-Shared Key (PSK) Usage in TLS
  - RFC 9258: Importing External Pre-Shared Keys (PSKs) for TLS 1.3
 
+Existing protocols that might be considered to perform symmetric key establishment include:
+ - Needham–Schroeder protocol
+ - Kerberos
+ - Distributed Symmetric Key Establishment (DSKE)
+
 Other aspects of PSK use and communication occur in:
  - WireGuard®
  - ETSI GS QKD 014
